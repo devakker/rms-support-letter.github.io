@@ -1,4 +1,4 @@
-# An open letter in support of RMS.
+# [An open letter in support of RMS.](https://rms-support-letter.github.io/)
 
 To sign, **click [here](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)** and name the file `<username>.yaml` (replace `<username>` with your name) with the following content:
 
